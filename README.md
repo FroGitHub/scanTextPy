@@ -1,0 +1,1 @@
+Do not forget to download Tesseract(scanText/src/main/resources/), you can take it from my repository, and add link to path(System Properties -> Enviroment Variables -> Path -> add C:/Program Files/tesseract-OCR)
